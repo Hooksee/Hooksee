@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wuksy
+- 👋 Hi, I’m @Hooksee
 - 👀 I’m interested in learning Game Development
 - 🌱 I’m currently learning C++
 
